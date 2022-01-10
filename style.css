@@ -1,0 +1,18 @@
+table, tr, th, td {
+    border: 1px solid black;
+}
+table {
+  height: 420px;
+  width: 770px;
+  margin: auto;
+}
+th, td {
+    height: 60px;
+    width: 110px;
+}
+td {
+    vertical-align: top;
+}
+.grey {
+    background-color: grey;
+}
